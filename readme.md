@@ -7,7 +7,7 @@
 #### General Instructions
 1. Use only png images for uploading
 2. Use `npm i ` and `node server.js` to run.
-3. Backend is on port 6969. Use postman to simulate requests.
+3. Backend is on port 6969. Use [postman](https://www.postman.com/downloads/) to simulate requests. 
 4. All sent data is in json form except event registration which is form-data
 ---
 #### Example in postman 1:
